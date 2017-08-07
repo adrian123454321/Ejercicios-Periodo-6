@@ -2,19 +2,19 @@ var edad =17;
 
 switch(edad) {
 	case 0:
-		console.log("sos bebe");
+		console.log("eres bebe");
 		//break;
 
 	case 1:
-		console.log("sos niño");
+		console.log("eres niño");
 		//break;
 
 	case 17:
-		console.log("sos adulto");
+		console.log("eres adulto");
 		//break;
 
 	case 30:
-		console.log("sos casi veijo");
+		console.log("eres casi veijo");
 		//break;
 
 	default:
